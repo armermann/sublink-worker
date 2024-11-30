@@ -107,4 +107,4 @@
 
 感谢所有为本项目点亮 Star 的朋友们！🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date)](https://star-history.com/#7Sageer/sublink-worker&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date)](https://star-history.com/armermann/sublink-worker&Date)
